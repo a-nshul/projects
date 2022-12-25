@@ -1,0 +1,1523 @@
+[2022-11-11T06:02:43.089Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T06:02:43.209Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T07:05:06.910Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T07:05:07.020Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T07:12:25.864Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T07:12:25.976Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-11T07:12:26.027Z][QUERY]: CREATE TABLE `migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2022-11-11T07:12:26.099Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-11T07:12:26.149Z]No migrations are pending
+[2022-11-11T09:09:15.509Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:09:15.724Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:15:22.070Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:15:22.226Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:16:56.059Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:16:56.172Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:18:06.022Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:18:06.146Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:29:24.380Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:29:24.510Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:29:32.945Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:29:33.054Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-11T09:35:17.590Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-11T09:35:17.704Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:06:21.740Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:06:21.870Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:09:52.203Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:09:52.343Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:12:22.218Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:12:22.341Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:14:16.518Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:14:16.674Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:24:13.603Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:24:13.834Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:25:48.233Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:25:48.392Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:26:55.073Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:26:55.256Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:28:14.509Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:28:14.705Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:34:06.749Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:34:25.070Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:34:44.170Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:35:28.594Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:36:03.609Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:36:04.883Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-14T09:36:04.964Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'category' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'cart_items'
+[2022-11-14T09:36:05.076Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-14T09:37:40.792Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-14T09:37:42.091Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-14T09:37:42.197Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'category' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'customer'
+[2022-11-14T09:37:42.306Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:16:44.238Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:16:45.609Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-15T13:16:45.675Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'category'
+[2022-11-15T13:16:45.749Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:16:57.822Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:16:59.122Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:16:59.193Z][QUERY]: SELECT * FROM `interns_ecom_nitin`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:16:59.243Z]No migrations are pending
+[2022-11-15T13:17:51.968Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:17:53.420Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom_nitin' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:17:53.547Z][QUERY]: SELECT * FROM `interns_ecom_nitin`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:17:53.601Z]No migrations are pending
+[2022-11-15T13:19:45.179Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:19:46.598Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-15T13:19:46.670Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'category'
+[2022-11-15T13:19:46.756Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:19:55.372Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:19:56.667Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_new' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:19:56.864Z][QUERY]: CREATE TABLE `migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2022-11-15T13:19:56.965Z][QUERY]: SELECT * FROM `interns_new`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:19:57.022Z]No migrations are pending
+[2022-11-15T13:22:06.844Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:22:08.201Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-15T13:22:08.262Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'category'
+[2022-11-15T13:22:08.342Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:22:16.302Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:22:17.583Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecom' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:22:17.665Z][QUERY]: CREATE TABLE `migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2022-11-15T13:22:17.749Z][QUERY]: SELECT * FROM `interns_ecom`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:22:17.812Z]No migrations are pending
+[2022-11-15T13:26:20.760Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:26:22.088Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-15T13:26:22.169Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'category' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'product'
+[2022-11-15T13:26:22.255Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:26:30.172Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:26:31.442Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:26:31.504Z][QUERY]: CREATE TABLE `migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2022-11-15T13:26:31.604Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:26:31.642Z]No migrations are pending
+[2022-11-15T13:31:42.561Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:31:43.926Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-15T13:31:43.977Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'category'
+[2022-11-15T13:31:44.049Z][QUERY]: 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+                
+[2022-11-15T13:31:44.050Z][QUERY]: SELECT * FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+            ) `kcu` WHERE `CONSTRAINT_NAME` = 'PRIMARY'
+[2022-11-15T13:31:44.050Z][QUERY]: 
+            SELECT
+                `SCHEMA_NAME`,
+                `DEFAULT_CHARACTER_SET_NAME` as `CHARSET`,
+                `DEFAULT_COLLATION_NAME` AS `COLLATION`
+            FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+            
+[2022-11-15T13:31:44.051Z][QUERY]: 
+            SELECT
+                `s`.*
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `s`
+            LEFT JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `rc`
+                ON
+                    `s`.`INDEX_NAME` = `rc`.`CONSTRAINT_NAME`
+                    AND
+                    `s`.`TABLE_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA`
+            WHERE
+                `s`.`INDEX_NAME` != 'PRIMARY'
+                AND
+                `rc`.`CONSTRAINT_NAME` IS NULL
+            
+[2022-11-15T13:31:44.051Z][QUERY]: 
+            SELECT
+                `kcu`.`TABLE_SCHEMA`,
+                `kcu`.`TABLE_NAME`,
+                `kcu`.`CONSTRAINT_NAME`,
+                `kcu`.`COLUMN_NAME`,
+                `kcu`.`REFERENCED_TABLE_SCHEMA`,
+                `kcu`.`REFERENCED_TABLE_NAME`,
+                `kcu`.`REFERENCED_COLUMN_NAME`,
+                `rc`.`DELETE_RULE` `ON_DELETE`,
+                `rc`.`UPDATE_RULE` `ON_UPDATE`
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+            ) `kcu`
+            INNER JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `rc`
+                ON
+                    `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`CONSTRAINT_SCHEMA`
+                    AND
+                    `rc`.`TABLE_NAME` = `kcu`.`TABLE_NAME`
+                    AND
+                    `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+            
+[2022-11-15T13:31:44.393Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:31:44.460Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-15T13:31:51.317Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-15T13:31:52.647Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-15T13:31:52.706Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-15T13:31:52.766Z]No migrations are pending
+[2022-11-17T09:53:20.718Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-17T09:53:23.645Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-17T09:53:23.725Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'category' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'product'
+[2022-11-17T09:53:23.836Z][QUERY]: 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+                
+[2022-11-17T09:53:23.839Z][QUERY]: SELECT * FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+            ) `kcu` WHERE `CONSTRAINT_NAME` = 'PRIMARY'
+[2022-11-17T09:53:23.842Z][QUERY]: 
+            SELECT
+                `SCHEMA_NAME`,
+                `DEFAULT_CHARACTER_SET_NAME` as `CHARSET`,
+                `DEFAULT_COLLATION_NAME` AS `COLLATION`
+            FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+            
+[2022-11-17T09:53:23.844Z][QUERY]: 
+            SELECT
+                `s`.*
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+            ) `s`
+            LEFT JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+            ) `rc`
+                ON
+                    `s`.`INDEX_NAME` = `rc`.`CONSTRAINT_NAME`
+                    AND
+                    `s`.`TABLE_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA`
+            WHERE
+                `s`.`INDEX_NAME` != 'PRIMARY'
+                AND
+                `rc`.`CONSTRAINT_NAME` IS NULL
+            
+[2022-11-17T09:53:23.846Z][QUERY]: 
+            SELECT
+                `kcu`.`TABLE_SCHEMA`,
+                `kcu`.`TABLE_NAME`,
+                `kcu`.`CONSTRAINT_NAME`,
+                `kcu`.`COLUMN_NAME`,
+                `kcu`.`REFERENCED_TABLE_SCHEMA`,
+                `kcu`.`REFERENCED_TABLE_NAME`,
+                `kcu`.`REFERENCED_COLUMN_NAME`,
+                `rc`.`DELETE_RULE` `ON_DELETE`,
+                `rc`.`UPDATE_RULE` `ON_UPDATE`
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+            ) `kcu`
+            INNER JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+            ) `rc`
+                ON
+                    `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`CONSTRAINT_SCHEMA`
+                    AND
+                    `rc`.`TABLE_NAME` = `kcu`.`TABLE_NAME`
+                    AND
+                    `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+            
+[2022-11-17T09:53:24.615Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-17T09:53:24.745Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-17T10:00:40.130Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-17T10:00:43.309Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-17T10:00:43.415Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-17T10:00:43.508Z]No migrations are pending
+[2022-11-18T03:57:22.683Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T03:57:25.403Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-18T03:57:25.477Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'category' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'inventory'
+[2022-11-18T03:57:25.598Z][QUERY]: 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+                
+[2022-11-18T03:57:25.665Z][QUERY]: SELECT * FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+            ) `kcu` WHERE `CONSTRAINT_NAME` = 'PRIMARY'
+[2022-11-18T03:57:25.666Z][QUERY]: 
+            SELECT
+                `SCHEMA_NAME`,
+                `DEFAULT_CHARACTER_SET_NAME` as `CHARSET`,
+                `DEFAULT_COLLATION_NAME` AS `COLLATION`
+            FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+            
+[2022-11-18T03:57:25.669Z][QUERY]: 
+            SELECT
+                `s`.*
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+            ) `s`
+            LEFT JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+            ) `rc`
+                ON
+                    `s`.`INDEX_NAME` = `rc`.`CONSTRAINT_NAME`
+                    AND
+                    `s`.`TABLE_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA`
+            WHERE
+                `s`.`INDEX_NAME` != 'PRIMARY'
+                AND
+                `rc`.`CONSTRAINT_NAME` IS NULL
+            
+[2022-11-18T03:57:25.672Z][QUERY]: 
+            SELECT
+                `kcu`.`TABLE_SCHEMA`,
+                `kcu`.`TABLE_NAME`,
+                `kcu`.`CONSTRAINT_NAME`,
+                `kcu`.`COLUMN_NAME`,
+                `kcu`.`REFERENCED_TABLE_SCHEMA`,
+                `kcu`.`REFERENCED_TABLE_NAME`,
+                `kcu`.`REFERENCED_COLUMN_NAME`,
+                `rc`.`DELETE_RULE` `ON_DELETE`,
+                `rc`.`UPDATE_RULE` `ON_UPDATE`
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+            ) `kcu`
+            INNER JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+            ) `rc`
+                ON
+                    `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`CONSTRAINT_SCHEMA`
+                    AND
+                    `rc`.`TABLE_NAME` = `kcu`.`TABLE_NAME`
+                    AND
+                    `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+            
+[2022-11-18T03:57:26.489Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T03:57:26.582Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-18T03:57:51.594Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T03:57:53.441Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-18T03:57:53.547Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-18T03:57:53.641Z]No migrations are pending
+[2022-11-18T05:30:23.549Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T05:30:26.486Z][QUERY]: SELECT DATABASE() AS `db_name`
+[2022-11-18T05:30:26.569Z][QUERY]: SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'customer' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'address' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'cart_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'order_items' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'payment_details' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'inventory' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'product' UNION SELECT `TABLE_SCHEMA`, `TABLE_NAME` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'category'
+[2022-11-18T05:30:26.660Z][QUERY]: 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'address'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+                 UNION 
+                SELECT
+                    *
+                FROM
+                    `INFORMATION_SCHEMA`.`COLUMNS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+                
+[2022-11-18T05:30:26.662Z][QUERY]: SELECT * FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'address'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+            ) `kcu` WHERE `CONSTRAINT_NAME` = 'PRIMARY'
+[2022-11-18T05:30:26.662Z][QUERY]: 
+            SELECT
+                `SCHEMA_NAME`,
+                `DEFAULT_CHARACTER_SET_NAME` as `CHARSET`,
+                `DEFAULT_COLLATION_NAME` AS `COLLATION`
+            FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+            
+[2022-11-18T05:30:26.664Z][QUERY]: 
+            SELECT
+                `s`.*
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'address'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`STATISTICS`
+                WHERE
+                    `TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `s`
+            LEFT JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'address'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `rc`
+                ON
+                    `s`.`INDEX_NAME` = `rc`.`CONSTRAINT_NAME`
+                    AND
+                    `s`.`TABLE_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA`
+            WHERE
+                `s`.`INDEX_NAME` != 'PRIMARY'
+                AND
+                `rc`.`CONSTRAINT_NAME` IS NULL
+            
+[2022-11-18T05:30:26.665Z][QUERY]: 
+            SELECT
+                `kcu`.`TABLE_SCHEMA`,
+                `kcu`.`TABLE_NAME`,
+                `kcu`.`CONSTRAINT_NAME`,
+                `kcu`.`COLUMN_NAME`,
+                `kcu`.`REFERENCED_TABLE_SCHEMA`,
+                `kcu`.`REFERENCED_TABLE_NAME`,
+                `kcu`.`REFERENCED_COLUMN_NAME`,
+                `rc`.`DELETE_RULE` `ON_DELETE`,
+                `rc`.`UPDATE_RULE` `ON_UPDATE`
+            FROM (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'address'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`KEY_COLUMN_USAGE` `kcu`
+                WHERE
+                    `kcu`.`TABLE_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `kcu`.`TABLE_NAME` = 'category'
+            ) `kcu`
+            INNER JOIN (
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'customer'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'address'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'cart_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'order_items'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'payment_details'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'inventory'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'product'
+             UNION 
+                SELECT
+                    *
+                FROM `INFORMATION_SCHEMA`.`REFERENTIAL_CONSTRAINTS`
+                WHERE
+                    `CONSTRAINT_SCHEMA` = 'interns_ecommerce'
+                    AND
+                    `TABLE_NAME` = 'category'
+            ) `rc`
+                ON
+                    `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`CONSTRAINT_SCHEMA`
+                    AND
+                    `rc`.`TABLE_NAME` = `kcu`.`TABLE_NAME`
+                    AND
+                    `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+            
+[2022-11-18T05:30:27.357Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T05:30:28.163Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'typeorm_metadata'
+[2022-11-18T05:30:53.320Z][QUERY]: SELECT VERSION() AS `version`
+[2022-11-18T05:30:54.639Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'interns_ecommerce' AND `TABLE_NAME` = 'migrations'
+[2022-11-18T05:30:54.732Z][QUERY]: SELECT * FROM `interns_ecommerce`.`migrations` `migrations` ORDER BY `id` DESC
+[2022-11-18T05:30:54.795Z]No migrations are pending
